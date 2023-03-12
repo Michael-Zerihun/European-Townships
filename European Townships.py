@@ -1,4 +1,4 @@
-inputFile = open('./inputs/ET_small.txt', 'r')
+inputFile = open('./ET_small.txt', 'r')
 lines = inputFile.readlines()
 
 lineList = []
